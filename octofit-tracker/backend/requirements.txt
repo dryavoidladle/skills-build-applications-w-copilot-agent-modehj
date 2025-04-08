@@ -1,0 +1,1 @@
+Create a requirements.txt file in the backend directory with the necessary Python packages for the OctoFit Tracker application.
